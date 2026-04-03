@@ -20,9 +20,9 @@
 </div>
 ###
 
-<p align="center"> :3 :)</p>
+<p align="center"> :3 </p>
 
-###
+
 ###
 
 <div align="center">
