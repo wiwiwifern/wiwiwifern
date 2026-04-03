@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/wiwiwifern/wiwiwifern/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -23,9 +25,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ferny bu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ferny%20bu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
