@@ -1,6 +1,8 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wiwiwifern/wiwiwifern/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiwiwifern/wiwiwifern/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiwiwifern/wiwiwifern/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wiwiwifern/wiwiwifern/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -20,12 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
